@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc_example.qml</file>
+        <file>qrc_example.py</file>
+        <file>below/qrc_example_below.py</file>
+        <file>stock_base.py</file>
+        <file>PythonBusyIndicator.qml</file>
+        <file>DDuiStockList.qml</file>
+        <file>DDuiCoinList.qml</file>
+        <file>DDuiDailyKLine.qml</file>
+        <file>DDuiNewShare.qml</file>
+        <file>DDuiExchange.qml</file>
+        <file>DDuiCoinNews.qml</file>
+        <file>DDuiAnimationTips.qml</file>
+        <file>DyCreatePage.qml</file>
+    </qresource>
+</RCC>
